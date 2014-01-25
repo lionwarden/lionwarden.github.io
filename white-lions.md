@@ -22,5 +22,5 @@ The female is named Ishara after Ishara Casalain, the first Queen of Andor.
 *  `here ishara`  
    Call Ishara to your side so she can play with you and follow you around.
 
-*  `stay here`
+*  `stay here`  
    Order the cubs to stay put.
