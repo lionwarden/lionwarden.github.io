@@ -276,3 +276,11 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 code {
 	background-color: #f0f0f0;
 }
+
+.footer {
+     margin: 0;
+     text-align: center;
+     padding: 1em 2em 1em;
+     border-top: 1px solid #eee;
+ }
+ 
