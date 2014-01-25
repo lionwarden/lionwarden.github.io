@@ -10,6 +10,6 @@ To serve the site locally:
     sudo gem install jekyll
     git clone https://github.com/lionwarden/lionwarden.github.io
     cd lionwarden
-    jekyll serve --watch -b ""
+    jekyll serve --watch
 
 
