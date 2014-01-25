@@ -162,7 +162,7 @@ appears on the left side of the page.
 
 #menu .pure-menu-selected,
 #menu .pure-menu-heading {
-  background: #1f8dd6;
+  /*background: #1f8dd6;*/
 }
 
 /*
@@ -271,4 +271,8 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
 #layout.active .menu-link {
   left: 150px;
+}
+
+code {
+	background-color: #f0f0f0;
 }
