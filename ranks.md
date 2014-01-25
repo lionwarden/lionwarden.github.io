@@ -29,7 +29,7 @@ _Note: Must be level 30 to advance in rank._
 
 ### Rank 3 <small>30qps</small>
 
-*  <span class="text-success">2 weeks</span> minimum
+*  <span style="color: green">2 weeks</span> minimum
 *  Demonstrate knowledge of West Caemlyn:
    *  Four Kings (including doors and traps)
    *  Whitebridge
@@ -37,7 +37,7 @@ _Note: Must be level 30 to advance in rank._
 
 ### Rank 4 <small>75qps</small>
 
-*  <span class="text-success">3 weeks</span> minimum
+*  <span style="color: green">3 weeks</span> minimum
 *  Demonstrate knowledge around Caemlyn:
    *  North, South and East Caemlyn
    *  Treehouse:
@@ -50,7 +50,7 @@ _Note: Must be level 30 to advance in rank._
 
 ### Rank 5 <small>150qps</small>
 
-*  <span class="text-success">1 month</span> minimum
+*  <span style="color: green">1 month</span> minimum
 *  Demonstrate knowledge of Caralain Grass area:
    *  Blodfest entrance
    *  Apple
@@ -61,11 +61,11 @@ _Note: Must be level 30 to advance in rank._
 
 ### Rank 6 <small>400qps</small>
 
-*  <span class="text-success">2 months</span> minimum
+*  <span style="color: green">2 months</span> minimum
 
 ### Rank 7 <small>1,000qps</small>
 
-*  <span class="text-success">3 months</span> minimum
+*  <span style="color: green">3 months</span> minimum
 
 ### Rank 8 <small>3,000qps</small>
 
