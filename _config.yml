@@ -1,7 +1,6 @@
 name: "Lion Warden"
 description: "Lion Warden Website"
 url: http://rascul.github.io
-baseurl: /
 permalink: pretty
 paginate: 10
 
