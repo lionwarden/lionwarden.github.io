@@ -4,8 +4,6 @@ category: Laws
 layout: default
 ---
 
-<img src="/assets/morgase.jpg" alt="law" style="float: right; padding-left: 1em;">
-
 1. Anyone caught wearing or possessing the equipment of the Lion Warden will have
    one, and only one, chance to give it up peacefully. After that, a warrant will
    be issued and pursued. The following pieces of equipment are property of the
