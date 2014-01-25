@@ -1,4 +1,4 @@
-{% assign sections = "Andor|Enlistment|Laws|Policies|Quests|Ranks|Support|Treaties" | split: "|" %}
+{% assign sections = "Andor|Enlistment|Laws|Policies|Quests|Ranks|Support|Treaties|White Lions" | split: "|" %}
 
 <!doctype html>
 <html>
@@ -34,7 +34,7 @@
 			
 			<ul>
 				{% for section in sections %}
-					<li{% if page.category == section %} class="pure-menu-selected"{% endif %}><a href="/{{ section | downcase }}">{{ section }}</a></li>
+					<li{% if page.category == section %} class="pure-menu-selected"{% endif %}><a href="/{{ section | downcase | replace:' ','-' }}">{{ section }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>
