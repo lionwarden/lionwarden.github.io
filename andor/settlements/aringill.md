@@ -8,7 +8,7 @@ Aringill is a port town on the Erinin River, the eastern border of Andor. Severa
 ships frequent Aringill, and it's a good place to cross the river into Cairhien.
 
 <div style="text-align: center">
-<img src="{{ site.baseurl }}/assets/aringill.png" alt="aringill map">
+<img src="/assets/aringill.png" alt="aringill map">
 </div>
 
 ## Ships
@@ -21,4 +21,4 @@ ships frequent Aringill, and it's a good place to cross the river into Cairhien.
 *  The Merchant's Wind
 *  Atha'Miere Raker
 
-[Crier Quests]({{ site.baseurl }}/quests/crier/aringill)
+[Crier Quests](/quests/crier/aringill)

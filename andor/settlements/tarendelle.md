@@ -9,7 +9,7 @@ southwest of Whitebridge. Far enough off the Caemlyn Road that it sees few
 travelers. Lord Jaufre resides in a tower east of the village.
 
 <div style="text-align: center">
-<img src="{{ site.baseurl }}/assets/tarendelle.png" alt="tarendelle map">
+<img src="/assets/tarendelle.png" alt="tarendelle map">
 </div>
 
 ## Shops

@@ -9,7 +9,7 @@ bridge spanning the River Arinelle. A common stop for travelers across Andor, an
 the docks on the river make transportation via river boat popular.
 
 <div style="text-align: center">
-<img src="{{ site.baseurl }}/assets/whitebridge.png" alt="whitebridge map">
+<img src="/assets/whitebridge.png" alt="whitebridge map">
 </div>
 
 ## Ships
@@ -31,4 +31,4 @@ the docks on the river make transportation via river boat popular.
 *  __The Queen's Squire__ sells horses and rents stalls in the stable.
 *  __Wayfarer's Rest Inn__ has a tavern with food and drink.
 
-[Crier Quests]({{ site.baseurl }}/quests/crier/whitebridge)
+[Crier Quests](/quests/crier/whitebridge)

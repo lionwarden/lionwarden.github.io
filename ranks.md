@@ -16,7 +16,7 @@ _Note: Must be level 30 to advance in rank._
 
 ### Rank 1 <small>0qps</small>
 
-*  See [Enlistment]({{ site.baseurl }}/enlistment)
+*  See [Enlistment](/enlistment)
 
 ### Rank 2 <small>10qps</small>
 
