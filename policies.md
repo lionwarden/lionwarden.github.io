@@ -1,6 +1,7 @@
 ---
 title: Policies
 category: Policies
+tree: top
 layout: default
 ---
 

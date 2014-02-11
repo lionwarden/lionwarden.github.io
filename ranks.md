@@ -1,6 +1,7 @@
 ---
 title: Ranks
 category: Ranks
+tree: top
 layout: default
 ---
 

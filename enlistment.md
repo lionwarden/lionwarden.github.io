@@ -1,6 +1,7 @@
 ---
 title: Enlistment
 category: Enlistment
+tree: top
 layout: default
 ---
 

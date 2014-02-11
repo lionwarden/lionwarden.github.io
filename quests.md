@@ -1,6 +1,7 @@
 ---
 title: Quests
 category: Quests
+tree: top
 layout: default
 ---
 

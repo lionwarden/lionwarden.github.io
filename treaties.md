@@ -1,6 +1,7 @@
 ---
 title: Treaties
 category: Treaties
+tree: top
 layout: default
 ---
 

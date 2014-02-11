@@ -1,6 +1,7 @@
 ---
-title: Laws of Andor
+title: Laws
 category: Laws
+tree: top
 layout: default
 ---
 

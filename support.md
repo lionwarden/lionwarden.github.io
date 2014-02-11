@@ -1,6 +1,7 @@
 ---
 title: Support
 category: Support
+tree: top
 layout: default
 ---
 
